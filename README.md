@@ -1,15 +1,19 @@
 # Olá a todos!
-Sejam bem-vindos ao meu perfil! meu nome é João, sou estudante de análise e desenvolvimento de sistemas na faculdade BandTec, atualmente no segundo semestre e sou apaixonado por programação
+Sejam bem-vindos ao meu perfil! meu nome é João, Sou um jovem Desenvolvedor Web Full Stack, formado em Análise e Desenvolvimento de Sistemas. Tenho experiência na criação de Api rest em java e na criação de bibliotecas em angular.
+
+Nessas experiencias onde eu adquirir a vivência de metodologias ageis como kanban e scrum, trabalhei também na correção de bugs, criação de testes unitário utilizando junit e versionamento de código com o git.
 
 ## Linguagens & Frameworks
 <div style="display: flex;">
 <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
-<img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 ## :chart_with_upwards_trend: Meus Status 
